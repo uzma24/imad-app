@@ -1,6 +1,6 @@
 console.log('Loaded!');
 
-var img = getElementById('madi');
+var img = getElementById("madi");
 
 
 img.onclick = function() {
